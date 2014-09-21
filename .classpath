@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/software/JTCC-0.1/JTCC-0.1.jar"/>
+	<classpathentry kind="lib" path="C:/software/lucene-3.6.1/lucene-core-3.6.1.jar" sourcepath="C:/software/lucene-3.6.1-src/lucene-3.6.1/core/src"/>
+	<classpathentry kind="lib" path="C:/software/lucene-3.6.1/contrib/analyzers/common/lucene-analyzers-3.6.1.jar" sourcepath="C:/software/lucene-3.6.1-src"/>
+	<classpathentry kind="lib" path="C:/software/lucene-3.6.1/contrib/queryparser/lucene-queryparser-3.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
